@@ -1,4 +1,4 @@
-# api-best-practice
+# DI container in NodeJs
 
 REST API Design Best Practices Handbook with JavaScript, Node.js, and Express.js
 
@@ -20,30 +20,18 @@ Run the followning command to install all the packages:
 yarn
 ```
 
-or
-
-```
-npm i
-```
-
 To run the local server:
 
 ```
 yarn dev
 ```
 
-or
-
-```
-npm run dev
-```
-
 ## Built With
 
+- [Awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [Express](https://expressjs.com/) - The web framework used
 - [Npm](https://www.npmjs.com/) - Dependency Management
-<!-- - [MongoBD](https://www.mongodb.com/) - Database -->
 
 ## Authors
 
-- **Md Maruf Ahmed** - _Font end developer_ - [Qbytesoft ](https://qbytesoft.com/)
+- **Md Maruf Ahmed** - _Font end developer_
